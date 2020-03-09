@@ -1,0 +1,28 @@
+{
+  "org_name": "tier1",
+  "daughters": [
+    {
+      "org_name": "tier2a",
+      "daughters": [
+        {
+          "org_name": "tier3aa"
+        }
+      ]
+    },
+    {
+      "org_name": "tier2b",
+      "daughters": [
+        {
+          "org_name": "tier2ba",
+          "daughters": [
+          ]
+        },
+        {
+          "org_name": "tier2bb",
+          "daughters": [
+          ]
+        }
+      ]
+    }
+  ]
+}

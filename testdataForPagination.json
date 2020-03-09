@@ -1,0 +1,599 @@
+{
+  "daughters": [
+    {
+      "org_name": "AIshouldBeFirst!"
+    },
+    {
+      "org_name": "ZIshouldBeLast!"
+    },
+    {
+      "org_name": "BIshouldBeSecond!"
+    },
+    {
+      "org_name": "Tier2_3"
+    },
+    {
+      "org_name": "Tier2_4"
+    },
+    {
+      "org_name": "Tier2_5"
+    },
+    {
+      "org_name": "Tier2_6"
+    },
+    {
+      "org_name": "Tier2_7"
+    },
+    {
+      "org_name": "Tier2_8"
+    },
+    {
+      "org_name": "Tier2_9"
+    },
+    {
+      "org_name": "Tier2_10"
+    },
+    {
+      "org_name": "Tier2_11"
+    },
+    {
+      "org_name": "Tier2_12"
+    },
+    {
+      "org_name": "Tier2_13"
+    },
+    {
+      "org_name": "Tier2_14"
+    },
+    {
+      "org_name": "Tier2_15"
+    },
+    {
+      "org_name": "Tier2_16"
+    },
+    {
+      "org_name": "Tier2_17"
+    },
+    {
+      "org_name": "Tier2_18"
+    },
+    {
+      "org_name": "Tier2_19"
+    },
+    {
+      "org_name": "Tier2_20"
+    },
+    {
+      "org_name": "Tier2_21"
+    },
+    {
+      "org_name": "Tier2_22"
+    },
+    {
+      "org_name": "Tier2_23"
+    },
+    {
+      "org_name": "Tier2_24"
+    },
+    {
+      "org_name": "Tier2_25"
+    },
+    {
+      "org_name": "Tier2_26"
+    },
+    {
+      "org_name": "Tier2_27"
+    },
+    {
+      "org_name": "Tier2_28"
+    },
+    {
+      "org_name": "Tier2_29"
+    },
+    {
+      "org_name": "Tier2_30"
+    },
+    {
+      "org_name": "Tier2_31"
+    },
+    {
+      "org_name": "Tier2_32"
+    },
+    {
+      "org_name": "Tier2_33"
+    },
+    {
+      "org_name": "Tier2_34"
+    },
+    {
+      "org_name": "Tier2_35"
+    },
+    {
+      "org_name": "Tier2_36"
+    },
+    {
+      "org_name": "Tier2_37"
+    },
+    {
+      "org_name": "Tier2_38"
+    },
+    {
+      "org_name": "Tier2_39"
+    },
+    {
+      "org_name": "Tier2_40"
+    },
+    {
+      "org_name": "Tier2_41"
+    },
+    {
+      "org_name": "Tier2_42"
+    },
+    {
+      "org_name": "Tier2_43"
+    },
+    {
+      "org_name": "Tier2_44"
+    },
+    {
+      "org_name": "Tier2_45"
+    },
+    {
+      "org_name": "Tier2_46"
+    },
+    {
+      "org_name": "Tier2_47"
+    },
+    {
+      "org_name": "Tier2_48"
+    },
+    {
+      "org_name": "Tier2_49"
+    },
+    {
+      "org_name": "Tier2_50"
+    },
+    {
+      "org_name": "Tier2_51"
+    },
+    {
+      "org_name": "Tier2_52"
+    },
+    {
+      "org_name": "Tier2_53"
+    },
+    {
+      "org_name": "Tier2_54"
+    },
+    {
+      "org_name": "Tier2_55"
+    },
+    {
+      "org_name": "Tier2_56"
+    },
+    {
+      "org_name": "Tier2_57"
+    },
+    {
+      "org_name": "Tier2_58"
+    },
+    {
+      "org_name": "Tier2_59"
+    },
+    {
+      "org_name": "Tier2_60"
+    },
+    {
+      "org_name": "Tier2_61"
+    },
+    {
+      "org_name": "Tier2_62"
+    },
+    {
+      "org_name": "Tier2_63"
+    },
+    {
+      "org_name": "Tier2_64"
+    },
+    {
+      "org_name": "Tier2_65"
+    },
+    {
+      "org_name": "Tier2_66"
+    },
+    {
+      "org_name": "Tier2_67"
+    },
+    {
+      "org_name": "Tier2_68"
+    },
+    {
+      "org_name": "Tier2_69"
+    },
+    {
+      "org_name": "Tier2_70"
+    },
+    {
+      "org_name": "Tier2_71"
+    },
+    {
+      "org_name": "Tier2_72"
+    },
+    {
+      "org_name": "Tier2_73"
+    },
+    {
+      "org_name": "Tier2_74"
+    },
+    {
+      "org_name": "Tier2_75"
+    },
+    {
+      "org_name": "Tier2_76"
+    },
+    {
+      "org_name": "Tier2_77"
+    },
+    {
+      "org_name": "Tier2_78"
+    },
+    {
+      "org_name": "Tier2_79"
+    },
+    {
+      "org_name": "Tier2_80"
+    },
+    {
+      "org_name": "Tier2_81"
+    },
+    {
+      "org_name": "Tier2_82"
+    },
+    {
+      "org_name": "Tier2_83"
+    },
+    {
+      "org_name": "Tier2_84"
+    },
+    {
+      "org_name": "Tier2_85"
+    },
+    {
+      "org_name": "Tier2_86"
+    },
+    {
+      "org_name": "Tier2_87"
+    },
+    {
+      "org_name": "Tier2_88"
+    },
+    {
+      "org_name": "Tier2_89"
+    },
+    {
+      "org_name": "Tier2_90"
+    },
+    {
+      "org_name": "Tier2_91"
+    },
+    {
+      "org_name": "Tier2_92"
+    },
+    {
+      "org_name": "Tier2_93"
+    },
+    {
+      "org_name": "Tier2_94"
+    },
+    {
+      "org_name": "Tier2_95"
+    },
+    {
+      "org_name": "Tier2_96"
+    },
+    {
+      "org_name": "Tier2_97"
+    },
+    {
+      "org_name": "Tier2_98"
+    },
+    {
+      "org_name": "Tier2_99"
+    },
+    {
+      "org_name": "Tier2_100"
+    },
+    {
+      "org_name": "Tier2_101"
+    },
+    {
+      "org_name": "Tier2_102"
+    },
+    {
+      "org_name": "Tier2_103"
+    },
+    {
+      "org_name": "Tier2_104"
+    },
+    {
+      "org_name": "Tier2_105"
+    },
+    {
+      "org_name": "Tier2_106"
+    },
+    {
+      "org_name": "Tier2_107"
+    },
+    {
+      "org_name": "Tier2_108"
+    },
+    {
+      "org_name": "Tier2_109"
+    },
+    {
+      "org_name": "Tier2_110"
+    },
+    {
+      "org_name": "Tier2_111"
+    },
+    {
+      "org_name": "Tier2_112"
+    },
+    {
+      "org_name": "Tier2_113"
+    },
+    {
+      "org_name": "Tier2_114"
+    },
+    {
+      "org_name": "Tier2_115"
+    },
+    {
+      "org_name": "Tier2_116"
+    },
+    {
+      "org_name": "Tier2_117"
+    },
+    {
+      "org_name": "Tier2_118"
+    },
+    {
+      "org_name": "Tier2_119"
+    },
+    {
+      "org_name": "Tier2_120"
+    },
+    {
+      "org_name": "Tier2_121"
+    },
+    {
+      "org_name": "Tier2_122"
+    },
+    {
+      "org_name": "Tier2_123"
+    },
+    {
+      "org_name": "Tier2_124"
+    },
+    {
+      "org_name": "Tier2_125"
+    },
+    {
+      "org_name": "Tier2_126"
+    },
+    {
+      "org_name": "Tier2_127"
+    },
+    {
+      "org_name": "Tier2_128"
+    },
+    {
+      "org_name": "Tier2_129"
+    },
+    {
+      "org_name": "Tier2_130"
+    },
+    {
+      "org_name": "Tier2_131"
+    },
+    {
+      "org_name": "Tier2_132"
+    },
+    {
+      "org_name": "Tier2_133"
+    },
+    {
+      "org_name": "Tier2_134"
+    },
+    {
+      "org_name": "Tier2_135"
+    },
+    {
+      "org_name": "Tier2_136"
+    },
+    {
+      "org_name": "Tier2_137"
+    },
+    {
+      "org_name": "Tier2_138"
+    },
+    {
+      "org_name": "Tier2_139"
+    },
+    {
+      "org_name": "Tier2_140"
+    },
+    {
+      "org_name": "Tier2_141"
+    },
+    {
+      "org_name": "Tier2_142"
+    },
+    {
+      "org_name": "Tier2_143"
+    },
+    {
+      "org_name": "Tier2_144"
+    },
+    {
+      "org_name": "Tier2_145"
+    },
+    {
+      "org_name": "Tier2_146"
+    },
+    {
+      "org_name": "Tier2_147"
+    },
+    {
+      "org_name": "Tier2_148"
+    },
+    {
+      "org_name": "Tier2_149"
+    },
+    {
+      "org_name": "Tier2_150"
+    },
+    {
+      "org_name": "Tier2_151"
+    },
+    {
+      "org_name": "Tier2_152"
+    },
+    {
+      "org_name": "Tier2_153"
+    },
+    {
+      "org_name": "Tier2_154"
+    },
+    {
+      "org_name": "Tier2_155"
+    },
+    {
+      "org_name": "Tier2_156"
+    },
+    {
+      "org_name": "Tier2_157"
+    },
+    {
+      "org_name": "Tier2_158"
+    },
+    {
+      "org_name": "Tier2_159"
+    },
+    {
+      "org_name": "Tier2_160"
+    },
+    {
+      "org_name": "Tier2_161"
+    },
+    {
+      "org_name": "Tier2_162"
+    },
+    {
+      "org_name": "Tier2_163"
+    },
+    {
+      "org_name": "Tier2_164"
+    },
+    {
+      "org_name": "Tier2_165"
+    },
+    {
+      "org_name": "Tier2_166"
+    },
+    {
+      "org_name": "Tier2_167"
+    },
+    {
+      "org_name": "Tier2_168"
+    },
+    {
+      "org_name": "Tier2_169"
+    },
+    {
+      "org_name": "Tier2_170"
+    },
+    {
+      "org_name": "Tier2_171"
+    },
+    {
+      "org_name": "Tier2_172"
+    },
+    {
+      "org_name": "Tier2_173"
+    },
+    {
+      "org_name": "Tier2_174"
+    },
+    {
+      "org_name": "Tier2_175"
+    },
+    {
+      "org_name": "Tier2_176"
+    },
+    {
+      "org_name": "Tier2_177"
+    },
+    {
+      "org_name": "Tier2_178"
+    },
+    {
+      "org_name": "Tier2_179"
+    },
+    {
+      "org_name": "Tier2_180"
+    },
+    {
+      "org_name": "Tier2_181"
+    },
+    {
+      "org_name": "Tier2_182"
+    },
+    {
+      "org_name": "Tier2_183"
+    },
+    {
+      "org_name": "Tier2_184"
+    },
+    {
+      "org_name": "Tier2_185"
+    },
+    {
+      "org_name": "Tier2_186"
+    },
+    {
+      "org_name": "Tier2_187"
+    },
+    {
+      "org_name": "Tier2_188"
+    },
+    {
+      "org_name": "Tier2_189"
+    },
+    {
+      "org_name": "Tier2_190"
+    },
+    {
+      "org_name": "Tier2_191"
+    },
+    {
+      "org_name": "Tier2_192"
+    },
+    {
+      "org_name": "Tier2_193"
+    },
+    {
+      "org_name": "Tier2_194"
+    },
+    {
+      "org_name": "Tier2_195"
+    },
+    {
+      "org_name": "Tier2_196"
+    },
+    {
+      "org_name": "Tier2_197"
+    }
+  ],
+  "org_name": "Tier1"
+}
